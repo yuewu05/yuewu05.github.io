@@ -21,7 +21,7 @@ I am an undergraduate student at [School of Intelligence Science and Technology
 
 Currently, I am majoring in Artificial Intelligence. I am honored to be advised by [Prof. Lanzhe Guo](https://scholar.google.com/citations?user=dpunvqgAAAAJ&hl=en).
 
-My research interests include multi-modal learning and reasoning, computer vision for image.
+My research interests include Open-world LLM agents and Neuro-symbolic reasoning for agents.
 
 # 🎖 Honors and Awards
 
